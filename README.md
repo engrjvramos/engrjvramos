@@ -1,4 +1,4 @@
-## Hey, I'm Jobie.
+## Hey, I'm Jose.
 
 I'm a self-taught web-developer based in Manila, Philippines. I like music, cooking, nature, and coding. 
 
