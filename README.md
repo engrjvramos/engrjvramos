@@ -12,9 +12,9 @@ I'm a self-taught web-developer based in Manila, Philippines. I like music, cook
 
 ### My Favorite Project Repos
 
-<a href="https://engrjvramos.github.io/personal-website-v1>Portfolio Website</a>
-<a href="https://engrjvramos.github.io/rest-countries-api>World Countries</a>
-<a href="https://engrjvramos.github.io/payapi-multipage-website>PayAPI Multi-Page Website</a>
+[Portfolio Website](https://engrjvramos.github.io/personal-website-v1)
+[World Countries](https://engrjvramos.github.io/rest-countries-api)
+[PayAPI Multi-Page Website](https://engrjvramos.github.io/payapi-multipage-website)
          
 
 
