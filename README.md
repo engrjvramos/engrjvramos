@@ -1,6 +1,6 @@
 ## Hi, I'm Jose Ramos.
 
-I'm a self-taught web-developer based in Manila, Philippines. A passionate individual who loves coding.
+I'm a self-taught web-developer based in Manila, Philippines. A passionate individual who loves `coding`.
 
 ### Get In Touch
 
