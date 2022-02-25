@@ -1,6 +1,6 @@
 ## Hi, I'm Jose Ramos.
 
-I'm a self-taught web-developer based in Manila, Philippines. I like music, cooking, nature, and coding. 
+I'm a self-taught web-developer based in Manila, Philippines. A passionate individual who strives to learn new technologies to solve problems and create sustainable & responsive websites and web apps.
 
 ### Get In Touch
 
@@ -10,11 +10,6 @@ I'm a self-taught web-developer based in Manila, Philippines. I like music, cook
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
-### My Favorite Project Repos
-
-[Portfolio Website](https://engrjvramos.github.io/personal-website-v1)
-[World Countries](https://engrjvramos.github.io/rest-countries-api)
-[PayAPI Multi-Page Website](https://engrjvramos.github.io/payapi-multipage-website)
          
 
 
